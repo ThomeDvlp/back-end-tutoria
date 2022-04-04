@@ -41,4 +41,4 @@ class MentorsRepository implements IMentorsRepository {
 
 };
 
-export { MentorsRepository};
+export { MentorsRepository };
